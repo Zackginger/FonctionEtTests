@@ -4,16 +4,19 @@
 # c. Programmer les tests
 
 """
-1. Fonction qui reçoit les points de vies et les points de défenses d'un joueur et les points d'attaques de l'autre et
+1. Fonction qui reçoit les points de vies et les points de défenses d'un joueur et
+les points d'attaques de l'autre et
 qui retourne les points de vies restants après l'attaque.
 """
 
 """
-2. Fonction qui reçoit une liste de legos et une couleur et qui le pourcentage de blocs de cette couleur
+2. Fonction qui reçoit une liste de legos et une couleur et 
+qui retourne le pourcentage de blocs de cette couleur
 """
 
 """
-3. Fonction qui reçoit une liste de legos et qui il y a combien de blocs de chaque couleur en moyenne
+3. Fonction qui reçoit une liste de legos et 
+qui retourne il y a combien de blocs de chaque couleur en moyenne
 """
 
 # Répartition des tâches :
