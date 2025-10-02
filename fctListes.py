@@ -17,8 +17,9 @@ qui retourne les points de vies restants après l'attaque.
 """
 
 # Répartition des tâches :
-"""                     a   b   c
-Nom :                   1   2   3
-Nom :                   2   3   1
-Nom :                   3   1   2
+"""                     
+a   b   c
+1   2   3   Nom :                   
+2   3   1   Nom :                   
+3   1   2   Nom :                   
 """
