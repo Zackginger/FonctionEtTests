@@ -10,3 +10,10 @@ def point_vie(hp,attaque, defence):
     hp-=truedammage
     return hp
 
+"""
+plan de test
+| defense |  attaque |   hp  | resultat attendue | resultat obtenue |
+| 55      | 25       |   40  |   25              |   25             |
+|         | 90       |       |   90              |   90             |
+|         | 40       |       |   40              |   40             |
+"""

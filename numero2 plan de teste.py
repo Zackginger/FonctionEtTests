@@ -1,4 +1,3 @@
-import pytest
 from numero2 import liste_lego_couleur
 
 def test1():
